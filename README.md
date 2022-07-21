@@ -1,13 +1,14 @@
-- [Retro 😎](#retro-)
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+
 - 🎓 &nbsp; Estudando FullStack Developer em formação na <a href="https://www.growdev.com.br/">Growdev</a>.
 
 <h3> :rocket: &nbsp;Minhas Skills (Em Aprendizado) </h3>
+
 
 **Aplicações e Dados**
 
@@ -27,13 +28,16 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-  <a href="https://github.com/RenanGarcez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanGarcez&theme=dracula&show_icons=true" />
+ ## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/RenanGarcez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanGarcez&theme=dracula&hide_langs_below=1" />
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="RenanGarcez github stats"/>
 </a>
+
 
 <br/>
 
